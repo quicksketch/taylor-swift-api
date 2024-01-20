@@ -6,7 +6,7 @@ const allQuotes = [
     album: "Taylor Swift",
   },
   {
-    quote: "When you think Tim McGraw, I hope you think of me.",
+    quote: "When you think Tim McGraw, I hope you think of me. :cry:",
     song: "Tim McGraw",
     album: "Taylor Swift",
   },
